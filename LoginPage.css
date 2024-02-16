@@ -198,4 +198,7 @@ input::placeholder {
   .contain {
     font-size: 14px;
   }
+  body {
+    background-repeat: repeat-y;
+  }
 }
